@@ -65,7 +65,3 @@ This repository contains a list of 50 Linux commands, starting from beginner-lev
 
 Contributions to expand and improve this list are welcome. Please fork this repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
